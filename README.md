@@ -10,15 +10,16 @@ Wikipedia英語版より
 
 1984年に発売されたオリジナルのマッキントッシュについては、初期のドキュメンテーションはアップルから提供されるフォトコピーの形式のみがありました。
 
-A "telephone-book" version of Inside Macintosh was also available, which consisted of one 1000 page volume. It was sent as a promotional copy to developers. The 1000 page manual was sent out because the "real" version would take some time to print. In 1985, they were published by Addison-Wesley in the form of a hardcover book that was available to the general public. The first version had three volumes, which covered the original Mac 128K, Macintosh XL, and the Mac 512K ("Fat Mac") models. When the Macintosh Plus was released, a fourth volume was added, detailing the changes to the system software introduced with that model. A further "delta" manual, volume 5, was introduced with the Mac II line in 1987. This manual discusses color QuickDraw, as well as the Mac II and Mac SE hardware and other new software components.
+「Inside Macintosh」のいわゆる電話帳バージョンも、千ページの量から構成されて、提供されました。この電話帳バージョンは、開発者たちにプロモーションのためのコピーとして送られました。この現実のバージョンは、印刷に時間がかかるため、程なく底を尽きました。1985年には、これらは一般印刷物として、Addison-Wesley社によってハードカバー本として出版されました。最初のバージョンは、３分冊となっており、オリジナルの Mac 128K、Macintosh XL、そして「Fat Mac」として知られる Mac 512Kをカバーしていました。
+Macintosh Plusが発売されると、第４巻が追加され、このモデルで導入されたシステムソフトウェアへの変更についても詳細に記述されました。さらに「デルタ」マニュアル、第５巻がMac IIが1987年に発売されると導入されました。このマニュアルは、カラーのQuickDraw、Mac IIやMac SEハードウェアや、その他の新しいソフトウェア・コンポーネントについて記述されています。
 
-By the time of System 7, released in 1991, the Inside Macintosh "delta" model was becoming seriously stretched. Nevertheless, the details of System 7 were documented in the immense Volume VI.
+1991年に発売された System 7の時代には、「Inside Macintosh」デルタ・モデルは深刻な拡張を余儀なくされました。それにもかかわらず、System 7の詳細は大分量の第6巻に文書化されました。
 
-Shortly after this, Apple revamped the entire Inside Macintosh series, breaking it into volumes according to the functional area discussed, rather than specific machine models or capabilities. In this form, the series was far more coherent and a much better reference for programmers. As new functionality was added to the classic Mac OS, a new volume could be written without invalidating those published earlier, in contrast to the first series, which became increasingly out of date over time.
+この直後、アップル社は「Inside Macintosh」シリーズを改良し、特定のマシンモデルや機能について説明するのではなく、機能分類に従って分割することになります。この形式においては、 「Inside Macintosh」シリーズは優れて一貫しており、プログラマーにとってはるかに良いリファレンスとなりました。
+クラシックなMac OSに新しい機能が追加されると、最初のシリーズとは対照的に、以前に公開されたものを無効にすることなく新しいボリュームを作成することができました。
 
-In the late 1990s, Apple ceased to publish Inside Macintosh as a printed book, instead making it available as a CD-ROM, and online. Since then, the CD variant has been phased out, though Apple developers can still receive online documentation as part of the developer CDs. In its online form, the information is much easier to maintain, but some developers still prefer a printed format.
+1990年代の後半になると、アップル社は「Inside Macintosh」を印刷物として出版するのをやめ、その代わりにCD-ROMやオンラインで提供するようになりました。それ以降、CDのバリエーションは無くなり、その代わりにAppleの開発者はデベロッパーCDの一部としてオンライン・ドキュメントを受け取ることができるようになりました。このオンラインの形式においては、情報ははるかに容易に保守しやすくなりましたが、一方で少数の開発者たちは印刷された形式を好む者もいました。
 
-Inside Macintosh only covers the classic Mac OS; a new set of documentation was introduced for Mac OS X. Initially this documentation included only the 'Carbon Specification' that said which APIs were supported in Carbon and which were not, and the Cocoa documentation inherited from OPENSTEP. Later, the Carbon Specification was refactored into the Carbon Reference, which actually described the APIs it documented (taking much content from Inside Macintosh). Today, the Carbon Reference and Cocoa reference are bundled together in the ADC Reference Library.
+「Inside Macintosh」クラシックなMac OSのみをカバーしています。つまり、Mac OS Xに対しては新しいドキュメンテーション・セットが導入されました。 当初、この文書には「Carbon仕様」つまりCarbonでサポートされているAPI群とされていないものと、OPENSTEPから継承したCocoaドキュメンテーsyホンのみが含まれていました。 その後、Carbon 仕様はCarbon リファレンスにリファクタリングされました。これは実際に記述されたAPIを記述しました（「Inside Macintosh」からも多くのコンテンツを取り込みました）。今日では、CarbonリファレンスとCocoaリファレンスはADCリファレンス・ライブラリーに統合されています。
 
-
-[Wikipedia:Inside_Matintosh](https://en.wikipedia.org/wiki/Inside_Macintosh)
+出典：[Wikipedia:Inside_Matintosh](https://en.wikipedia.org/wiki/Inside_Macintosh)
